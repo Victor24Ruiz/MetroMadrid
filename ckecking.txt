@@ -1,0 +1,867 @@
+10
+L1 33
+pinar de chamartín
+bambú
+chamartín
+plaza de castilla
+valeacederas
+tetuán
+estrecho
+alvarado
+cuatro caminos
+ríos rosas
+iglesia
+bilbao
+tribunal
+gran vía
+sol
+tirso de molina
+antón martín
+estación del arte
+atocha renfe
+menéndez pelayo
+pacífico
+puente de vallecas
+nueva numancia
+portazgo
+buenos aires
+alto de arenal
+miguel hernández
+sierra de guadalupe
+villa de vallecas
+congosto
+la gavia
+las suertes
+valdecarros
+L2 20
+las rosas
+avenida de guadalajara
+alsacia
+la almudena
+la elipa
+ventas
+manuel becerra
+goya
+príncipe de vergara
+retiro
+banco de españa
+sevilla
+sol
+ópera
+santo domingo
+noviciado
+san bernardo
+quevedo
+canal
+cuatro caminos
+L3 18
+villaverde alto
+san cristobal
+villaverde bajo cruce
+ciudad de los ángeles
+san fermin - orcasur
+hospital 12 de octubre
+almendrales
+legazpi
+delicias
+palos de la frontera
+embajadores
+lavapiés
+sol
+callao
+plaza de españa
+ventura rodríquez
+argüelles
+moncloa
+L4 23
+argüelles
+san bernardo
+bilbao
+alonso martínez
+colón
+serrano
+velázquez
+goya
+lista
+diego de león
+avenida de américa
+prosperidad
+alfonso xii
+avenida de la paz
+arturo soria
+esperanza
+canillas
+mar de cristal
+san lorenzo
+parque de santa maría
+hortaleza
+manoteras
+pinar de chamartín
+L5 32
+alameda de osuna
+el capricho
+canillejas
+torre arias
+suanzes
+ciudad lineal
+pueblo nuevo
+quintana
+el carmen
+ventas
+diego de león
+núñez de balboa
+rubén darío
+alonso martínez
+chueca
+gran vía
+callao
+ópera
+la latina
+puerta de toledo
+acacias
+pirámides
+marqués de vadillo
+urgel
+oporto
+vista alegre
+carabanchel
+eugenia de montijo
+aluche
+empalme
+campamento
+casa de campo
+L6 29
+príncipe pío
+argüelles
+moncloa
+ciudad universitaria
+vicente aleixandre
+guzmán el bueno
+cuatro caminos
+nuevos ministerios
+república argentina
+avenida de américa
+diego de león
+manuel becerra
+o'donell
+sainz de baranda
+conde de casal
+pacífico
+méndez álvaro
+arganzuela-planetario
+legazpi
+usera
+plaza elíptica
+opañel
+oporto
+carpetana
+laguna
+lucero
+alto de extremadura
+puerta del ángel
+príncipe pío
+L10 31
+hospital infanta sofía
+reyes católicos
+baunatal
+manuel de falla
+marqués de valdavia
+la moraleja
+la granja
+ronda de la comunicación
+las tablas
+montecarmelo
+tres olivos
+fuencarral
+begoña
+chamartín
+plaza de castilla
+cuzco
+santiago bernabéu
+nuevos ministerios
+gregorio marañón
+alonso martínez
+tribunal
+plaza de españa
+príncipe pío
+lago
+batán
+casa de campo
+colonia jardín
+aviación española
+cuatro vientos
+joaquín vilumbrales
+puerta del sur
+L7 31
+hospital de henares
+henares
+jarama
+san fernando
+la rambla
+coslada central
+barrio del puerto
+estadio metropolitano
+las musas
+san blas
+simancas
+garcía noblejas
+ascao
+pueblo nuevo
+barrio de la concepción
+parque de las avenidas
+cartagena
+avenida de américa
+gregorio marañón
+alonso cano
+canal
+islas filipinas
+guzmán el bueno
+francos rodríguez
+valdezarza
+antonio machado
+peñagrande
+avenida de la ilustración
+lacoma
+arroyofresno
+pitis
+L8 8
+nuevos ministerios
+colombia
+pinar del rey
+mar de cristal
+feria de madrid
+aeropuerto t1-t2-t3
+barajas
+aeropuerto t4
+L9 29
+paco de lucía
+mirasierra
+herrera oria
+barrio del pilar
+ventilla
+plaza de castilla
+duque de pastrana
+pío xii
+colombia
+concha espina
+cruz de rayo
+avenida de américa
+núñez de balboa
+príncipe de vergara
+ibiza
+sainz de baranda
+estrella
+vinateros
+artilleros
+pavones
+valdebernardo
+vicálcaro
+san cipriano
+puerta de arganda
+rivas urbanizaciones
+rivas futura
+rivas vaciamadrid
+la poveda
+arganda del rey
+209
+acacias
+ 1 L5
+aeropuerto t1-t2-t3
+ 1 L8
+aeropuerto t4
+ 1 L8
+alameda de osuna
+ 1 L5
+alfonso xii
+ 1 L4
+almendrales
+ 1 L3
+alonso cano
+ 1 L7
+alonso martínez
+ 3 L4 L5 L10
+alsacia
+ 1 L2
+alto de arenal
+ 1 L1
+alto de extremadura
+ 1 L6
+aluche
+ 1 L5
+alvarado
+ 1 L1
+antonio machado
+ 1 L7
+antón martín
+ 1 L1
+arganda del rey
+ 1 L9
+arganzuela-planetario
+ 1 L6
+argüelles
+ 3 L3 L4 L6
+arroyofresno
+ 1 L7
+artilleros
+ 1 L9
+arturo soria
+ 1 L4
+ascao
+ 1 L7
+atocha renfe
+ 1 L1
+avenida de américa
+ 4 L4 L6 L7 L9
+avenida de guadalajara
+ 1 L2
+avenida de la ilustración
+ 1 L7
+avenida de la paz
+ 1 L4
+aviación española
+ 1 L10
+bambú
+ 1 L1
+banco de españa
+ 1 L2
+barajas
+ 1 L8
+barrio de la concepción
+ 1 L7
+barrio del pilar
+ 1 L9
+barrio del puerto
+ 1 L7
+batán
+ 1 L10
+baunatal
+ 1 L10
+begoña
+ 1 L10
+bilbao
+ 2 L1 L4
+buenos aires
+ 1 L1
+callao
+ 2 L3 L5
+campamento
+ 1 L5
+canal
+ 2 L2 L7
+canillas
+ 1 L4
+canillejas
+ 1 L5
+carabanchel
+ 1 L5
+carpetana
+ 1 L6
+cartagena
+ 1 L7
+casa de campo
+ 2 L5 L10
+chamartín
+ 2 L1 L10
+chueca
+ 1 L5
+ciudad de los ángeles
+ 1 L3
+ciudad lineal
+ 1 L5
+ciudad universitaria
+ 1 L6
+colombia
+ 2 L8 L9
+colonia jardín
+ 1 L10
+colón
+ 1 L4
+concha espina
+ 1 L9
+conde de casal
+ 1 L6
+congosto
+ 1 L1
+coslada central
+ 1 L7
+cruz de rayo
+ 1 L9
+cuatro caminos
+ 3 L1 L2 L6
+cuatro vientos
+ 1 L10
+cuzco
+ 1 L10
+delicias
+ 1 L3
+diego de león
+ 3 L4 L5 L6
+duque de pastrana
+ 1 L9
+el capricho
+ 1 L5
+el carmen
+ 1 L5
+embajadores
+ 1 L3
+empalme
+ 1 L5
+esperanza
+ 1 L4
+estación del arte
+ 1 L1
+estadio metropolitano
+ 1 L7
+estrecho
+ 1 L1
+estrella
+ 1 L9
+eugenia de montijo
+ 1 L5
+feria de madrid
+ 1 L8
+francos rodríguez
+ 1 L7
+fuencarral
+ 1 L10
+garcía noblejas
+ 1 L7
+goya
+ 2 L2 L4
+gran vía
+ 2 L1 L5
+gregorio marañón
+ 2 L10 L7
+guzmán el bueno
+ 2 L6 L7
+henares
+ 1 L7
+herrera oria
+ 1 L9
+hortaleza
+ 1 L4
+hospital 12 de octubre
+ 1 L3
+hospital de henares
+ 1 L7
+hospital infanta sofía
+ 1 L10
+ibiza
+ 1 L9
+iglesia
+ 1 L1
+islas filipinas
+ 1 L7
+jarama
+ 1 L7
+joaquín vilumbrales
+ 1 L10
+la almudena
+ 1 L2
+la elipa
+ 1 L2
+la gavia
+ 1 L1
+la granja
+ 1 L10
+la latina
+ 1 L5
+la moraleja
+ 1 L10
+la poveda
+ 1 L9
+la rambla
+ 1 L7
+lacoma
+ 1 L7
+lago
+ 1 L10
+laguna
+ 1 L6
+las musas
+ 1 L7
+las rosas
+ 1 L2
+las suertes
+ 1 L1
+las tablas
+ 1 L10
+lavapiés
+ 1 L3
+legazpi
+ 2 L3 L6
+lista
+ 1 L4
+lucero
+ 1 L6
+manoteras
+ 1 L4
+manuel becerra
+ 2 L2 L6
+manuel de falla
+ 1 L10
+mar de cristal
+ 2 L4 L8
+marqués de vadillo
+ 1 L5
+marqués de valdavia
+ 1 L10
+menéndez pelayo
+ 1 L1
+miguel hernández
+ 1 L1
+mirasierra
+ 1 L9
+moncloa
+ 2 L3 L6
+montecarmelo
+ 1 L10
+méndez álvaro
+ 1 L6
+noviciado
+ 1 L2
+nueva numancia
+ 1 L1
+nuevos ministerios
+ 3 L6 L10 L8
+núñez de balboa
+ 2 L5 L9
+o'donell
+ 1 L6
+opañel
+ 1 L6
+oporto
+ 2 L5 L6
+paco de lucía
+ 1 L9
+pacífico
+ 2 L1 L6
+palos de la frontera
+ 1 L3
+parque de las avenidas
+ 1 L7
+parque de santa maría
+ 1 L4
+pavones
+ 1 L9
+peñagrande
+ 1 L7
+pinar de chamartín
+ 2 L1 L4
+pinar del rey
+ 1 L8
+pirámides
+ 1 L5
+pitis
+ 1 L7
+plaza de castilla
+ 3 L1 L10 L9
+plaza de españa
+ 2 L3 L10
+plaza elíptica
+ 1 L6
+portazgo
+ 1 L1
+prosperidad
+ 1 L4
+príncipe de vergara
+ 2 L2 L9
+príncipe pío
+ 2 L6 L10
+pueblo nuevo
+ 2 L5 L7
+puente de vallecas
+ 1 L1
+puerta de arganda
+ 1 L9
+puerta de toledo
+ 1 L5
+puerta del sur
+ 1 L10
+puerta del ángel
+ 1 L6
+pío xii
+ 1 L9
+quevedo
+ 1 L2
+quintana
+ 1 L5
+república argentina
+ 1 L6
+retiro
+ 1 L2
+reyes católicos
+ 1 L10
+rivas futura
+ 1 L9
+rivas urbanizaciones
+ 1 L9
+rivas vaciamadrid
+ 1 L9
+ronda de la comunicación
+ 1 L10
+rubén darío
+ 1 L5
+ríos rosas
+ 1 L1
+sainz de baranda
+ 2 L6 L9
+san bernardo
+ 2 L2 L4
+san blas
+ 1 L7
+san cipriano
+ 1 L9
+san cristobal
+ 1 L3
+san fermin - orcasur
+ 1 L3
+san fernando
+ 1 L7
+san lorenzo
+ 1 L4
+santiago bernabéu
+ 1 L10
+santo domingo
+ 1 L2
+serrano
+ 1 L4
+sevilla
+ 1 L2
+sierra de guadalupe
+ 1 L1
+simancas
+ 1 L7
+sol
+ 3 L1 L2 L3
+suanzes
+ 1 L5
+tetuán
+ 1 L1
+tirso de molina
+ 1 L1
+torre arias
+ 1 L5
+tres olivos
+ 1 L10
+tribunal
+ 2 L1 L10
+urgel
+ 1 L5
+usera
+ 1 L6
+valdebernardo
+ 1 L9
+valdecarros
+ 1 L1
+valdezarza
+ 1 L7
+valeacederas
+ 1 L1
+velázquez
+ 1 L4
+ventas
+ 2 L2 L5
+ventilla
+ 1 L9
+ventura rodríquez
+ 1 L3
+vicente aleixandre
+ 1 L6
+vicálcaro
+ 1 L9
+villa de vallecas
+ 1 L1
+villaverde alto
+ 1 L3
+villaverde bajo cruce
+ 1 L3
+vinateros
+ 1 L9
+vista alegre
+ 1 L5
+ópera
+ 2 L2 L5
+15
+vinateros
+estrella
+L9
+vinateros
+callao
+null
+vinateros
+atocha
+null
+atocha
+lavapiés
+null
+estrella
+vinateros
+L9
+vicente aleixandre
+ciudad universitaria
+L6
+ciudad universitaria
+vicente aleixandre
+L6
+vicente aleixandre
+guzmán el bueno
+L6
+tribunal
+bilbao
+L1
+tribunal
+gran vía
+L1
+tribunal
+alonso martínez
+L10
+tribunal
+plaza de españa
+L10
+valdecarros
+las suertes
+L1
+las suertes
+valdecarros
+L1
+las suertes
+la gavia
+L1
+13
+las rosas
+avenida de guadalajara
+L2
+las rosas
+ventas
+L2
+las rosas
+retiro
+L2
+ventas
+retiro
+L2
+las rosas
+cuatro caminos
+L2
+cuatro caminos
+goya
+L2
+ventas
+ciudad lineal
+L5
+ventas
+alameda de osuna
+L5
+ventas
+casa de campo
+L5
+casa de campo
+chueca
+L5
+chueca
+carpetana
+null
+vallecas
+conde de casal
+null
+conde de casal
+vallecas
+null
+6
+principe pío
+nuevos ministerios
+0
+nuevos ministerios
+atocha
+0
+atocha renfe
+sol
+9
+atocha renfe
+L1
+estación del arte
+L1
+antón martín
+L1
+tirso de molina
+L1
+sol
+nuevos ministerios
+aeropuerto T1-T2-T3
+11
+nuevos ministerios
+L8
+colombia
+L8
+pinar del rey
+L8
+mar de cristal
+L8
+feria de madrid
+L8
+aeropuerto t1-t2-t3
+ATOCHA RENFE
+aeropuerto t1-t2-t3
+29
+atocha renfe
+L1
+estación del arte
+L1
+antón martín
+L1
+tirso de molina
+L1
+sol
+L1
+gran vía
+L1
+tribunal
+L10
+alonso martínez
+L10
+gregorio marañón
+L10
+nuevos ministerios
+L8
+colombia
+L8
+pinar del rey
+L8
+mar de cristal
+L8
+feria de madrid
+L8
+aeropuerto t1-t2-t3
+AEROPUERTO T1-T2-T3
+ATOCHA RENFE
+29
+aeropuerto t1-t2-t3
+L8
+feria de madrid
+L8
+mar de cristal
+L8
+pinar del rey
+L8
+colombia
+L8
+nuevos ministerios
+L10
+gregorio marañón
+L10
+alonso martínez
+L5
+chueca
+L5
+gran vía
+L1
+sol
+L1
+tirso de molina
+L1
+antón martín
+L1
+estación del arte
+L1
+atocha renfe

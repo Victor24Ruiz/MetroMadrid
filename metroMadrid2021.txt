@@ -1,0 +1,275 @@
+10
+L1 azul PinardeChamartin-Valdecarros
+33
+Pinar de Chamartín
+Bambú
+Chamartín
+Plaza de Castilla
+Valeacederas
+Tetuán
+Estrecho
+Alvarado
+Cuatro Caminos
+Ríos Rosas
+Iglesia
+Bilbao
+Tribunal
+Gran Vía
+Sol
+Tirso de Molina
+Antón Martín
+Estación del Arte
+Atocha Renfe
+Menéndez Pelayo
+Pacífico
+Puente de Vallecas
+Nueva Numancia
+Portazgo
+Buenos Aires
+Alto de Arenal
+Miguel Hernández
+Sierra de Guadalupe
+Villa de Vallecas
+Congosto
+La Gavia
+Las Suertes
+Valdecarros
+L2 roja LasRosas-CuatroCaminos
+20
+Las Rosas
+Avenida de Guadalajara
+Alsacia
+La Almudena
+La Elipa
+Ventas
+Manuel Becerra
+Goya
+Príncipe de Vergara
+Retiro
+Banco de España
+Sevilla
+Sol
+Ópera
+Santo Domingo
+Noviciado
+San Bernardo
+Quevedo
+Canal
+Cuatro Caminos
+L3 amarillo VillaverdeAlto-Moncloa
+18
+Villaverde Alto
+San Cristobal
+Villaverde Bajo Cruce
+Ciudad de los Ángeles
+San Fermin - Orcasur
+Hospital 12 de Octubre
+Almendrales
+Legazpi
+Delicias
+Palos de la Frontera
+Embajadores
+Lavapiés
+Sol
+Callao
+Plaza de España
+Ventura Rodríquez
+Argüelles
+Moncloa
+L4 marrón Argüelles-PinarDeChamartín
+23
+Argüelles
+San Bernardo
+Bilbao
+Alonso Martínez
+Colón
+Serrano
+Velázquez
+Goya
+Lista
+Diego de León
+Avenida de América
+Prosperidad
+Alfonso XII
+Avenida de la Paz
+Arturo Soria
+Esperanza
+Canillas
+Mar de Cristal
+San Lorenzo
+Parque de Santa María
+Hortaleza
+Manoteras
+Pinar de Chamartín
+L5 verde AlamedaDeOsuna-CasaDeCampo
+32
+Alameda de Osuna
+El Capricho
+Canillejas
+Torre Arias
+Suanzes
+Ciudad Lineal
+Pueblo Nuevo
+Quintana
+El Carmen
+Ventas
+Diego de León
+Núñez de Balboa
+Rubén Darío
+Alonso Martínez
+Chueca
+Gran Vía
+Callao
+Ópera
+La Latina
+Puerta de Toledo
+Acacias
+Pirámides
+Marqués de Vadillo
+Urgel
+Oporto
+Vista Alegre
+Carabanchel
+Eugenia de Montijo
+Aluche
+Empalme
+Campamento
+Casa de Campo
+L6 gris Circular
+29
+Príncipe Pío
+Argüelles
+Moncloa
+Ciudad Universitaria
+Vicente Aleixandre
+Guzmán el Bueno
+Cuatro Caminos
+Nuevos Ministerios
+República Argentina
+Avenida de América
+Diego de León
+Manuel Becerra
+O'Donell
+Sainz de Baranda
+Conde de Casal
+Pacífico
+Méndez Álvaro
+Arganzuela-Planetario
+Legazpi
+Usera
+Plaza Elíptica
+Opañel
+Oporto
+Carpetana
+Laguna
+Lucero
+Alto de Extremadura
+Puerta del Ángel
+Príncipe Pío
+L7 naranja HospitalDeHenares-Pitis
+31
+Hospital de Henares
+Henares
+Jarama
+San Fernando
+La Rambla
+Coslada Central
+Barrio del Puerto
+Estadio Metropolitano
+Las Musas
+San Blas
+Simancas
+García Noblejas
+Ascao
+Pueblo Nuevo
+Barrio de la Concepción
+Parque de las Avenidas
+Cartagena
+Avenida de América
+Gregorio Marañón
+Alonso Cano
+Canal
+Islas Filipinas
+Guzmán el Bueno
+Francos Rodríguez
+Valdezarza
+Antonio Machado
+Peñagrande
+Avenida de la Ilustración
+Lacoma
+Arroyofresno
+Pitis
+L8 rosa NuevosMinisterios-AeropuertoT4
+8
+Nuevos Ministerios
+Colombia
+Pinar del Rey
+Mar de Cristal
+Feria de Madrid
+Aeropuerto T1-T2-T3
+Barajas
+Aeropuerto T4
+L9 morado PacoDeLucía-ArgandaDelRey
+29
+Paco de Lucía
+Mirasierra
+Herrera Oria
+Barrio del Pilar
+Ventilla
+Plaza de Castilla
+Duque de Pastrana
+Pío XII
+Colombia
+Concha Espina
+Cruz de Rayo
+Avenida de América
+Núñez de Balboa
+Príncipe de Vergara
+Ibiza
+Sainz de Baranda
+Estrella
+Vinateros
+Artilleros
+Pavones
+Valdebernardo
+Vicálcaro
+San Cipriano
+Puerta de Arganda
+Rivas Urbanizaciones
+Rivas Futura
+Rivas Vaciamadrid
+La Poveda
+Arganda del Rey
+L10 añil HospitalInfantaSofía-PuertaDelSur
+31
+Hospital Infanta Sofía
+Reyes Católicos
+Baunatal
+Manuel de Falla
+Marqués de Valdavia
+La Moraleja
+La Granja
+Ronda de la Comunicación
+Las Tablas
+Montecarmelo
+Tres Olivos
+Fuencarral
+Begoña
+Chamartín
+Plaza de Castilla
+Cuzco
+Santiago Bernabéu
+Nuevos Ministerios
+Gregorio Marañón
+Alonso Martínez
+Tribunal
+Plaza de España
+Príncipe Pío
+Lago
+Batán
+Casa de Campo
+Colonia Jardín
+Aviación Española
+Cuatro Vientos
+Joaquín Vilumbrales
+Puerta del Sur
